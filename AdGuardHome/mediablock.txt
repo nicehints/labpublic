@@ -8,6 +8,8 @@
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
 ||fptplay.vn^
+||fptplay.net^
 ||tv360.vn^
 ||vieon.vn^
 ||stremio.com^
+||strem.io^
