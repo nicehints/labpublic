@@ -8,3 +8,5 @@
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
 ||fptplay.vn^
+||tv360.vn^
+||vieon.vn^
