@@ -12,9 +12,6 @@
 @@||digitalcardservice.com^
 @@||liobank.vn^
 @@||momo.vn^
-@@||rophim.me^
-@@||rophimapi.net^
-@@||rofilm.net^
 @@||nutscdn.com^
 @@||netflix.com^
 @@||nflxvideo.net^
