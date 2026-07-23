@@ -1,0 +1,126 @@
+# Default (DoH)
+https://cloudflare-dns.com/dns-query
+https://dns.google/dns-query
+# Cloudflare (DoH)
+[/*.rophimapi.net/] https://cloudflare-dns.com/dns-query
+[/*.rophim.li/] https://cloudflare-dns.com/dns-query
+[/*.tradingview.com/] https://cloudflare-dns.com/dns-query
+# Vietnam domains → Google DoH
+[/*.vn/] 203.119.73.106 8.8.8.8
+[/*.vnncdn.net/] 203.119.73.106 8.8.8.8
+[/*.vnecdn.net/] 203.119.73.106 8.8.8.8
+[/*.vnexpress.net/] 203.119.73.106 8.8.8.8
+[/*.zalo.me/] 203.119.73.106 8.8.8.8
+[/*.zaloapp.com/] 203.119.73.106 8.8.8.8
+[/*.zmdcdn.me/] 203.119.73.106 8.8.8.8
+# Shopee
+[/*.shopee.vn/] 203.119.73.106 8.8.8.8
+[/*.cf.shopee.vn/] 203.119.73.106 8.8.8.8
+[/*.mall.shopee.vn/] 203.119.73.106 8.8.8.8
+[/*.seller.shopee.vn/] 203.119.73.106 8.8.8.8
+[/*.live.shopee.vn/] 203.119.73.106 8.8.8.8
+[/*.chat.shopee.vn/] 203.119.73.106 8.8.8.8
+[/*.games.shopee.vn/] 203.119.73.106 8.8.8.8
+[/*.api.shopee.vn/] 203.119.73.106 8.8.8.8
+[/*.static.shopee.vn/] 203.119.73.106 8.8.8.8
+[/*.cdn.shopee.vn/] 203.119.73.106 8.8.8.8
+[/*.shopeecdn.vn/] 203.119.73.106 8.8.8.8
+[/*.shp.ee/] 203.119.73.106 8.8.8.8
+# Meta ecosystem
+[/*.facebook.com/] 203.119.73.106 8.8.8.8
+[/*.fb.com/] 203.119.73.106 8.8.8.8
+[/*.m.facebook.com/] 203.119.73.106 8.8.8.8
+[/*.business.facebook.com/] 203.119.73.106 8.8.8.8
+[/*.developers.facebook.com/] 203.119.73.106 8.8.8.8
+[/*.graph.facebook.com/] 203.119.73.106 8.8.8.8
+[/*.api.facebook.com/] 203.119.73.106 8.8.8.8
+[/*.star.facebook.com/] 203.119.73.106 8.8.8.8
+[/*.messenger.com/] 203.119.73.106 8.8.8.8
+[/*.fbcdn.net/] 203.119.73.106 8.8.8.8
+[/*.fbsbx.com/] 203.119.73.106 8.8.8.8
+[/*.xx.fbcdn.net/] 203.119.73.106 8.8.8.8
+[/*.cdn.facebook.com/] 203.119.73.106 8.8.8.8
+[/*.video.xx.fbcdn.net/] 203.119.73.106 8.8.8.8
+[/*.scontent.xx.fbcdn.net/] 203.119.73.106 8.8.8.8
+[/*.instagram.com/] 203.119.73.106 8.8.8.8
+[/*.cdninstagram.com/] 203.119.73.106 8.8.8.8
+[/*.igcdn.com/] 203.119.73.106 8.8.8.8
+[/*.i.instagram.com/] 203.119.73.106 8.8.8.8
+[/*.graph.instagram.com/] 203.119.73.106 8.8.8.8
+[/*.whatsapp.com/] 203.119.73.106 8.8.8.8
+[/*.whatsapp.net/] 203.119.73.106 8.8.8.8
+[/*.media.whatsapp.net/] 203.119.73.106 8.8.8.8
+[/*.mmg.whatsapp.net/] 203.119.73.106 8.8.8.8
+[/*.threads.net/] 203.119.73.106 8.8.8.8
+[/*.cdn.threads.net/] 203.119.73.106 8.8.8.8
+[/*.meta.com/] 203.119.73.106 8.8.8.8
+[/*.meta.ai/] 203.119.73.106 8.8.8.8
+[/*.oculus.com/] 203.119.73.106 8.8.8.8
+[/*.workplace.com/] 203.119.73.106 8.8.8.8
+[/*.atlassbx.com/] 203.119.73.106 8.8.8.8
+[/*.facebook.net/] 203.119.73.106 8.8.8.8
+[/*.connect.facebook.net/] 203.119.73.106 8.8.8.8
+[/*.ads.facebook.com/] 203.119.73.106 8.8.8.8
+# Tiktok Ecosystem
+[/*.tiktok.com/] 203.119.73.106 1.1.1.1
+[/*.tiktokcdn.com/] 203.119.73.106 1.1.1.1
+[/*.tiktokv.com/] 203.119.73.106 1.1.1.1
+[/*.tiktokapi.com/] 203.119.73.106 1.1.1.1
+[/*.tik-tokapi.com/] 203.119.73.106 1.1.1.1
+[/*.tiktok.org/] 203.119.73.106 1.1.1.1
+[/*.tiktokcdn-us.com/] 203.119.73.106 1.1.1.1
+[/*.ttwstatic.com/] 203.119.73.106 1.1.1.1
+[/*.ttwstatic.net/] 203.119.73.106 1.1.1.1
+[/*.byteoversea.com/] 203.119.73.106 1.1.1.1
+[/*.bytefcdn-oversea.com/] 203.119.73.106 1.1.1.1
+[/*.ibytedtos.com/] 203.119.73.106 1.1.1.1
+[/*.ibytedtos-maliva.com/] 203.119.73.106 1.1.1.1
+[/*.byteeffect-prod.com/] 203.119.73.106 1.1.1.1
+[/*.byteacct.com/] 203.119.73.106 1.1.1.1
+[/*.tiktoklive.com/] 203.119.73.106 1.1.1.1
+[/*.tiktokstream.com/] 203.119.73.106 1.1.1.1
+[/*.tiktokv-live.com/] 203.119.73.106 1.1.1.1
+[/*.tiktokcdn-live.com/] 203.119.73.106 1.1.1.1
+# Google ecosystem → Google DoH
+[/*.google.com/] https://dns.google/dns-query
+[/*.google.com.vn/] https://dns.google/dns-query
+[/*.g.co/] https://dns.google/dns-query
+[/*.goo.gl/] https://dns.google/dns-query
+[/*.youtube.com/] https://dns.google/dns-query
+[/*.youtu.be/] https://dns.google/dns-query
+[/*.googlevideo.com/] https://dns.google/dns-query
+[/*.ytimg.com/] https://dns.google/dns-query
+[/*.gstatic.com/] https://dns.google/dns-query
+[/*.fonts.gstatic.com/] https://dns.google/dns-query
+[/*.fonts.googleapis.com/] https://dns.google/dns-query
+[/*.googleapis.com/] https://dns.google/dns-query
+[/*.safebrowse.googleapis.com/] https://dns.google/dns-query
+[/*.recaptcha.net/] https://dns.google/dns-query
+[/*.googleusercontent.com/] https://dns.google/dns-query
+[/*.lh3.googleusercontent.com/] https://dns.google/dns-query
+[/*.lh4.googleusercontent.com/] https://dns.google/dns-query
+[/*.lh5.googleusercontent.com/] https://dns.google/dns-query
+[/*.ggpht.com/] https://dns.google/dns-query
+[/*.doubleclick.net/] https://dns.google/dns-query
+[/*.g.doubleclick.net/] https://dns.google/dns-query
+[/*.googlesyndication.com/] https://dns.google/dns-query
+[/*.googleadservices.com/] https://dns.google/dns-query
+[/*.googletagservices.com/] https://dns.google/dns-query
+[/*.googletagmanager.com/] https://dns.google/dns-query
+[/*.android.com/] https://dns.google/dns-query
+[/*.play.google.com/] https://dns.google/dns-query
+[/*.dl.google.com/] https://dns.google/dns-query
+[/*.update.googleapis.com/] https://dns.google/dns-query
+[/*.firebaseio.com/] https://dns.google/dns-query
+[/*.firebase.google.com/] https://dns.google/dns-query
+# Shopee + Akamai → OpenDNS DoH
+# [/*.shopee.vn/] https://doh.opendns.com/dns-query
+# [/*.shopeemobile.com/] https://doh.opendns.com/dns-query
+[/*.akamai.net/] https://doh.opendns.com/dns-query
+[/*.akamaiedge.net/] https://doh.opendns.com/dns-query
+[/*.akadns.net/] https://doh.opendns.com/dns-query
+[/*.akamaihd.net/] https://doh.opendns.com/dns-query
+[/*.akamaiorigin.net/] https://doh.opendns.com/dns-query
+[/*.akamaized.net/] https://doh.opendns.com/dns-query
+[/*.edgekey.net/] https://doh.opendns.com/dns-query
+[/*.edgesuite.net/] https://doh.opendns.com/dns-query
